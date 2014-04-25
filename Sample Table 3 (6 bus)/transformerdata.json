@@ -1,0 +1,40 @@
+{
+    "tr1":{
+        "primary_kv":69,
+        "secondary_kv":13.8,
+        "primary_winding":"Yg",
+	"secondary_winding":"D",
+        "primary_zn": 0,
+        "primary_bus":2,
+        "secondary_bus":1,
+        "rating_mva":100,
+        "R1": "0.0",
+        "X1": "0.08",
+        "SLM_mva": 100
+    },
+    "tr2":{
+        "primary_kv":69,
+        "secondary_kv":13.8,
+        "primary_winding":"Y",
+	"secondary_winding":"D",
+        "primary_bus":3,
+        "secondary_bus":4,
+        "rating_mva":100,
+        "R1": "0.0",
+        "X1": "0.08",
+        "SLM_mva": 100
+    },
+    "tr3":{
+        "primary_kv":69,
+        "secondary_kv":13.8,
+        "primary_winding":"Yg",
+	"secondary_winding":"D",
+        "primary_zn": 0,
+        "primary_bus":6,
+        "secondary_bus":5,
+        "rating_mva":100,
+        "R1": "0.0",
+        "X1": "0.08",
+        "SLM_mva": 100
+    }
+}
